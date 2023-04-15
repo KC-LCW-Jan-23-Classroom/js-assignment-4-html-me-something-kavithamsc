@@ -1,1 +1,43 @@
 /* Write your CSS here! */
+header h1{
+    text-align: center;
+}
+#mainHeading {
+    color: red;
+    display: block;
+} 
+p{
+    margin: 8px;
+}
+.funParagraph{
+    color: green;
+}
+div{
+    padding: 1.25em;
+}
+img{
+    width: 100%;
+    max-width: 100%;
+}
+nav{
+    display: inline;
+    text-align:left;
+    font-size:large;
+}
+header p{
+    text-align: center;
+}
+figcaption{
+    text-align: center;
+    font-style:oblique ;
+}
+footer p{
+ text-align: center;
+}
+p{
+   font-size: x-large; 
+}
+ul li{
+    display: inline;
+    text-align: right;
+}
